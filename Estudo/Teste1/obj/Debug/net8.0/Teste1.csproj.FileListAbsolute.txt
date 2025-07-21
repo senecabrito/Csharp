@@ -1,0 +1,14 @@
+/home/seneca/Projetos/Teste1/bin/Debug/net8.0/Teste1
+/home/seneca/Projetos/Teste1/bin/Debug/net8.0/Teste1.deps.json
+/home/seneca/Projetos/Teste1/bin/Debug/net8.0/Teste1.runtimeconfig.json
+/home/seneca/Projetos/Teste1/bin/Debug/net8.0/Teste1.dll
+/home/seneca/Projetos/Teste1/bin/Debug/net8.0/Teste1.pdb
+/home/seneca/Projetos/Teste1/obj/Debug/net8.0/Teste1.GeneratedMSBuildEditorConfig.editorconfig
+/home/seneca/Projetos/Teste1/obj/Debug/net8.0/Teste1.AssemblyInfoInputs.cache
+/home/seneca/Projetos/Teste1/obj/Debug/net8.0/Teste1.AssemblyInfo.cs
+/home/seneca/Projetos/Teste1/obj/Debug/net8.0/Teste1.csproj.CoreCompileInputs.cache
+/home/seneca/Projetos/Teste1/obj/Debug/net8.0/Teste1.dll
+/home/seneca/Projetos/Teste1/obj/Debug/net8.0/refint/Teste1.dll
+/home/seneca/Projetos/Teste1/obj/Debug/net8.0/Teste1.pdb
+/home/seneca/Projetos/Teste1/obj/Debug/net8.0/Teste1.genruntimeconfig.cache
+/home/seneca/Projetos/Teste1/obj/Debug/net8.0/ref/Teste1.dll

@@ -1,0 +1,29 @@
+🧠 Atividade: Cálculo de Renda de Funcionário com Contratos Horistas
+
+    1. Solicita o nome do departamento.
+
+    2. Solicita os dados do funcionário:
+
+        - Nome
+
+        - Nível (Junior, Pleno, Senior)
+
+        - Salário base
+
+    3. Pergunta quantos contratos o funcionário possui.
+
+    4. Para cada contrato:
+
+        - Solicita data, valor por hora e duração (em horas).
+
+        - Cria o contrato e associa ao funcionário.
+
+    5. Solicita um mês e ano (formato MM/YYYY) para cálculo de renda.
+
+    6. Mostra:
+
+        - Nome do funcionário
+
+        - Departamento
+
+        - Renda total no mês informado (formatada como moeda)

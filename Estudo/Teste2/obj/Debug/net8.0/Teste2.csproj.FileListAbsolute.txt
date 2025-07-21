@@ -1,0 +1,14 @@
+/home/seneca/Projetos/Teste2/bin/Debug/net8.0/Teste2
+/home/seneca/Projetos/Teste2/bin/Debug/net8.0/Teste2.deps.json
+/home/seneca/Projetos/Teste2/bin/Debug/net8.0/Teste2.runtimeconfig.json
+/home/seneca/Projetos/Teste2/bin/Debug/net8.0/Teste2.dll
+/home/seneca/Projetos/Teste2/bin/Debug/net8.0/Teste2.pdb
+/home/seneca/Projetos/Teste2/obj/Debug/net8.0/Teste2.GeneratedMSBuildEditorConfig.editorconfig
+/home/seneca/Projetos/Teste2/obj/Debug/net8.0/Teste2.AssemblyInfoInputs.cache
+/home/seneca/Projetos/Teste2/obj/Debug/net8.0/Teste2.AssemblyInfo.cs
+/home/seneca/Projetos/Teste2/obj/Debug/net8.0/Teste2.csproj.CoreCompileInputs.cache
+/home/seneca/Projetos/Teste2/obj/Debug/net8.0/Teste2.dll
+/home/seneca/Projetos/Teste2/obj/Debug/net8.0/refint/Teste2.dll
+/home/seneca/Projetos/Teste2/obj/Debug/net8.0/Teste2.pdb
+/home/seneca/Projetos/Teste2/obj/Debug/net8.0/Teste2.genruntimeconfig.cache
+/home/seneca/Projetos/Teste2/obj/Debug/net8.0/ref/Teste2.dll

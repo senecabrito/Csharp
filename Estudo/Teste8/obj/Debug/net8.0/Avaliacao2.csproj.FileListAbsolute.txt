@@ -1,0 +1,14 @@
+/home/seneca/Estudo-C#/Exercicios/Teste8/bin/Debug/net8.0/Avaliacao2
+/home/seneca/Estudo-C#/Exercicios/Teste8/bin/Debug/net8.0/Avaliacao2.deps.json
+/home/seneca/Estudo-C#/Exercicios/Teste8/bin/Debug/net8.0/Avaliacao2.runtimeconfig.json
+/home/seneca/Estudo-C#/Exercicios/Teste8/bin/Debug/net8.0/Avaliacao2.dll
+/home/seneca/Estudo-C#/Exercicios/Teste8/bin/Debug/net8.0/Avaliacao2.pdb
+/home/seneca/Estudo-C#/Exercicios/Teste8/obj/Debug/net8.0/Avaliacao2.GeneratedMSBuildEditorConfig.editorconfig
+/home/seneca/Estudo-C#/Exercicios/Teste8/obj/Debug/net8.0/Avaliacao2.AssemblyInfoInputs.cache
+/home/seneca/Estudo-C#/Exercicios/Teste8/obj/Debug/net8.0/Avaliacao2.AssemblyInfo.cs
+/home/seneca/Estudo-C#/Exercicios/Teste8/obj/Debug/net8.0/Avaliacao2.csproj.CoreCompileInputs.cache
+/home/seneca/Estudo-C#/Exercicios/Teste8/obj/Debug/net8.0/Avaliacao2.dll
+/home/seneca/Estudo-C#/Exercicios/Teste8/obj/Debug/net8.0/refint/Avaliacao2.dll
+/home/seneca/Estudo-C#/Exercicios/Teste8/obj/Debug/net8.0/Avaliacao2.pdb
+/home/seneca/Estudo-C#/Exercicios/Teste8/obj/Debug/net8.0/Avaliacao2.genruntimeconfig.cache
+/home/seneca/Estudo-C#/Exercicios/Teste8/obj/Debug/net8.0/ref/Avaliacao2.dll

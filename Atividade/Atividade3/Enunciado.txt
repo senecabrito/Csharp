@@ -1,0 +1,47 @@
+🧠 Atividade: Sistema de Pedidos com Cliente, Produtos e Itens
+
+    1. Solicita os dados do cliente:
+
+        - Nome
+
+        - E-mail
+
+        - Data de nascimento (formato DD/MM/YYYY)
+
+    2. Solicita o status do pedido:
+
+        - Pendente
+
+        - Processando
+
+        - Enviado
+
+        - Entregue
+
+    3. Cria um objeto Pedido com os dados do cliente, status e momento atual.
+
+    4. Pergunta quantos itens o pedido terá.
+
+    5. Para cada item:
+
+        - Solicita o nome do produto
+
+        - Solicita o preço do produto
+
+        - Solicita a quantidade do item
+ 
+        - Cria um objeto Produto
+
+        - Cria um objeto ItemPedido e associa ao pedido
+
+    6. Exibe:
+
+        - Momento do pedido
+
+        - Status
+
+        - Dados do cliente (nome, e-mail, data de nascimento)
+
+        - Lista de itens (nome do produto, quantidade, preço, subtotal)
+
+        - Total do pedido

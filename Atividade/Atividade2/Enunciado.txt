@@ -1,0 +1,27 @@
+🧠 Atividade: Sistema de Postagens com Comentários
+
+    1. Solicita os dados do post:
+
+        - Data e hora (formato DD/MM/YYYY HH:mm:ss)
+
+        - Título
+
+        - Conteúdo
+
+        - Quantidade de likes
+
+    2. Cria um objeto Post com os dados informados.
+
+    3. Pergunta quantos comentários o post terá.
+
+    4. Para cada comentário:
+
+        - Solicita o texto do comentário
+
+        - Cria um objeto Comentario e associa ao post
+
+    5. Exibe:
+
+        - Dados do post (data, título, conteúdo, likes)
+
+        - Lista de comentários associados

@@ -1,0 +1,14 @@
+/home/seneca/C#/Atividade/Atividade2/bin/Debug/net8.0/Atividade2
+/home/seneca/C#/Atividade/Atividade2/bin/Debug/net8.0/Atividade2.deps.json
+/home/seneca/C#/Atividade/Atividade2/bin/Debug/net8.0/Atividade2.runtimeconfig.json
+/home/seneca/C#/Atividade/Atividade2/bin/Debug/net8.0/Atividade2.dll
+/home/seneca/C#/Atividade/Atividade2/bin/Debug/net8.0/Atividade2.pdb
+/home/seneca/C#/Atividade/Atividade2/obj/Debug/net8.0/Atividade2.GeneratedMSBuildEditorConfig.editorconfig
+/home/seneca/C#/Atividade/Atividade2/obj/Debug/net8.0/Atividade2.AssemblyInfoInputs.cache
+/home/seneca/C#/Atividade/Atividade2/obj/Debug/net8.0/Atividade2.AssemblyInfo.cs
+/home/seneca/C#/Atividade/Atividade2/obj/Debug/net8.0/Atividade2.csproj.CoreCompileInputs.cache
+/home/seneca/C#/Atividade/Atividade2/obj/Debug/net8.0/Atividade2.dll
+/home/seneca/C#/Atividade/Atividade2/obj/Debug/net8.0/refint/Atividade2.dll
+/home/seneca/C#/Atividade/Atividade2/obj/Debug/net8.0/Atividade2.pdb
+/home/seneca/C#/Atividade/Atividade2/obj/Debug/net8.0/Atividade2.genruntimeconfig.cache
+/home/seneca/C#/Atividade/Atividade2/obj/Debug/net8.0/ref/Atividade2.dll

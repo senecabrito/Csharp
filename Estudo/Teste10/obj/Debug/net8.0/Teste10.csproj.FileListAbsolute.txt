@@ -1,0 +1,14 @@
+/home/seneca/Estudo-C#/Exercicios/Teste10/bin/Debug/net8.0/Teste10
+/home/seneca/Estudo-C#/Exercicios/Teste10/bin/Debug/net8.0/Teste10.deps.json
+/home/seneca/Estudo-C#/Exercicios/Teste10/bin/Debug/net8.0/Teste10.runtimeconfig.json
+/home/seneca/Estudo-C#/Exercicios/Teste10/bin/Debug/net8.0/Teste10.dll
+/home/seneca/Estudo-C#/Exercicios/Teste10/bin/Debug/net8.0/Teste10.pdb
+/home/seneca/Estudo-C#/Exercicios/Teste10/obj/Debug/net8.0/Teste10.GeneratedMSBuildEditorConfig.editorconfig
+/home/seneca/Estudo-C#/Exercicios/Teste10/obj/Debug/net8.0/Teste10.AssemblyInfoInputs.cache
+/home/seneca/Estudo-C#/Exercicios/Teste10/obj/Debug/net8.0/Teste10.AssemblyInfo.cs
+/home/seneca/Estudo-C#/Exercicios/Teste10/obj/Debug/net8.0/Teste10.csproj.CoreCompileInputs.cache
+/home/seneca/Estudo-C#/Exercicios/Teste10/obj/Debug/net8.0/Teste10.dll
+/home/seneca/Estudo-C#/Exercicios/Teste10/obj/Debug/net8.0/refint/Teste10.dll
+/home/seneca/Estudo-C#/Exercicios/Teste10/obj/Debug/net8.0/Teste10.pdb
+/home/seneca/Estudo-C#/Exercicios/Teste10/obj/Debug/net8.0/Teste10.genruntimeconfig.cache
+/home/seneca/Estudo-C#/Exercicios/Teste10/obj/Debug/net8.0/ref/Teste10.dll

@@ -1,0 +1,14 @@
+/home/seneca/Estudo_C#/Teste6/obj/Debug/net8.0/Teste6.GeneratedMSBuildEditorConfig.editorconfig
+/home/seneca/Estudo_C#/Teste6/obj/Debug/net8.0/Teste6.AssemblyInfoInputs.cache
+/home/seneca/Estudo_C#/Teste6/obj/Debug/net8.0/Teste6.AssemblyInfo.cs
+/home/seneca/Estudo_C#/Teste6/obj/Debug/net8.0/Teste6.csproj.CoreCompileInputs.cache
+/home/seneca/Estudo_C#/Teste6/bin/Debug/net8.0/Teste6
+/home/seneca/Estudo_C#/Teste6/bin/Debug/net8.0/Teste6.deps.json
+/home/seneca/Estudo_C#/Teste6/bin/Debug/net8.0/Teste6.runtimeconfig.json
+/home/seneca/Estudo_C#/Teste6/bin/Debug/net8.0/Teste6.dll
+/home/seneca/Estudo_C#/Teste6/bin/Debug/net8.0/Teste6.pdb
+/home/seneca/Estudo_C#/Teste6/obj/Debug/net8.0/Teste6.dll
+/home/seneca/Estudo_C#/Teste6/obj/Debug/net8.0/refint/Teste6.dll
+/home/seneca/Estudo_C#/Teste6/obj/Debug/net8.0/Teste6.pdb
+/home/seneca/Estudo_C#/Teste6/obj/Debug/net8.0/Teste6.genruntimeconfig.cache
+/home/seneca/Estudo_C#/Teste6/obj/Debug/net8.0/ref/Teste6.dll

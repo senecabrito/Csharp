@@ -1,0 +1,14 @@
+/home/seneca/Estudo-C#/Exercicios/Teste9/bin/Debug/net8.0/Teste9
+/home/seneca/Estudo-C#/Exercicios/Teste9/bin/Debug/net8.0/Teste9.deps.json
+/home/seneca/Estudo-C#/Exercicios/Teste9/bin/Debug/net8.0/Teste9.runtimeconfig.json
+/home/seneca/Estudo-C#/Exercicios/Teste9/bin/Debug/net8.0/Teste9.dll
+/home/seneca/Estudo-C#/Exercicios/Teste9/bin/Debug/net8.0/Teste9.pdb
+/home/seneca/Estudo-C#/Exercicios/Teste9/obj/Debug/net8.0/Teste9.GeneratedMSBuildEditorConfig.editorconfig
+/home/seneca/Estudo-C#/Exercicios/Teste9/obj/Debug/net8.0/Teste9.AssemblyInfoInputs.cache
+/home/seneca/Estudo-C#/Exercicios/Teste9/obj/Debug/net8.0/Teste9.AssemblyInfo.cs
+/home/seneca/Estudo-C#/Exercicios/Teste9/obj/Debug/net8.0/Teste9.csproj.CoreCompileInputs.cache
+/home/seneca/Estudo-C#/Exercicios/Teste9/obj/Debug/net8.0/Teste9.dll
+/home/seneca/Estudo-C#/Exercicios/Teste9/obj/Debug/net8.0/refint/Teste9.dll
+/home/seneca/Estudo-C#/Exercicios/Teste9/obj/Debug/net8.0/Teste9.pdb
+/home/seneca/Estudo-C#/Exercicios/Teste9/obj/Debug/net8.0/Teste9.genruntimeconfig.cache
+/home/seneca/Estudo-C#/Exercicios/Teste9/obj/Debug/net8.0/ref/Teste9.dll
