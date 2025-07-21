@@ -1,0 +1,32 @@
+# Ignore pastas de compilação
+bin/
+obj/
+
+# Pastas de configuração do Visual Studio
+.vs/
+
+# VS Code settings
+.vscode/
+
+# Arquivos temporários
+*.user
+*.suo
+*.log
+*.tmp
+*.bak
+*.cache
+
+# Resultados de teste
+TestResults/
+
+# Pacotes NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Banco de dados local
+*.db
+*.dbmdl
+
+# Outros
+*.orig

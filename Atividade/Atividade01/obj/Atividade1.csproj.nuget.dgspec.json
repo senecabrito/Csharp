@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/seneca/C#/Atividade/Atividade1/Atividade1.csproj": {}
+    "/home/seneca/Csharp/Atividade/Atividade01/Atividade1.csproj": {}
   },
   "projects": {
-    "/home/seneca/C#/Atividade/Atividade1/Atividade1.csproj": {
+    "/home/seneca/Csharp/Atividade/Atividade01/Atividade1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/seneca/C#/Atividade/Atividade1/Atividade1.csproj",
+        "projectUniqueName": "/home/seneca/Csharp/Atividade/Atividade01/Atividade1.csproj",
         "projectName": "Atividade1",
-        "projectPath": "/home/seneca/C#/Atividade/Atividade1/Atividade1.csproj",
+        "projectPath": "/home/seneca/Csharp/Atividade/Atividade01/Atividade1.csproj",
         "packagesPath": "/home/seneca/.nuget/packages/",
-        "outputPath": "/home/seneca/C#/Atividade/Atividade1/obj/",
+        "outputPath": "/home/seneca/Csharp/Atividade/Atividade01/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/seneca/.nuget/NuGet/NuGet.Config"

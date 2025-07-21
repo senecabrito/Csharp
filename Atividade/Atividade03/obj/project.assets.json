@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/seneca/C#/Atividade/Atividade3/Atividade3.csproj",
+      "projectUniqueName": "/home/seneca/Csharp/Atividade/Atividade03/Atividade3.csproj",
       "projectName": "Atividade3",
-      "projectPath": "/home/seneca/C#/Atividade/Atividade3/Atividade3.csproj",
+      "projectPath": "/home/seneca/Csharp/Atividade/Atividade03/Atividade3.csproj",
       "packagesPath": "/home/seneca/.nuget/packages/",
-      "outputPath": "/home/seneca/C#/Atividade/Atividade3/obj/",
+      "outputPath": "/home/seneca/Csharp/Atividade/Atividade03/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/seneca/.nuget/NuGet/NuGet.Config"
