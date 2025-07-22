@@ -26,5 +26,21 @@ namespace Teste17.Entities
             }
         }
 
+        public override void Sacar(decimal valor) // Sobrescreve o método Sacar para não aplicar taxa de saque
+        {
+            if (valor <= 0)
+            {
+                throw new ArgumentException("Valor de saque deve ser positivo.");
+            }
+            else if (valor > Saldo)
+            {
+                throw new InvalidOperationException("Saldo insuficiente para saque.");
+            }
+            else
+            {
+                Saldo -= valor; // Não há taxa de saque para Conta Poupança
+            }
+        }
+
     }
 }

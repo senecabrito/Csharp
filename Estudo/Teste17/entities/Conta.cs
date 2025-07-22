@@ -26,7 +26,7 @@ namespace Teste17.Entities
             Saldo += valor;
         }
 
-        public void Sacar(decimal valor)
+        public virtual void Sacar(decimal valor) // Método virtual para permitir sobrescrita em classes derivadas
         {
             if (valor <= 0)
             {
@@ -38,7 +38,7 @@ namespace Teste17.Entities
             }
             else
             {
-                Saldo -= valor;
+                Saldo -= valor + 5; // Taxa de saque de R$5,00
             }
         }
 

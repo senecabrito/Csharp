@@ -22,6 +22,23 @@ namespace Teste17.Entities
                 throw new InvalidOperationException("Valor do empréstimo excede o limite permitido.");
             Saldo += valor;
         }
+
+        public override void Sacar(decimal valor) // Sobrescreve o método Sacar para aplicar taxa de saque
+        {
+            if (valor <= 0)
+            {
+                throw new ArgumentException("Valor de saque deve ser positivo.");
+            }
+            else if (valor > Saldo + LimiteEmprestimo)
+            {
+                throw new InvalidOperationException("Saldo insuficiente para saque.");
+            }
+            else
+            {
+                base.Sacar(valor); // Chama o método Sacar da classe base Conta
+                Saldo -= 2; // Taxa de saque total de R$7,00 para Conta Empresarial
+            }
+        }
         
     }
 }
