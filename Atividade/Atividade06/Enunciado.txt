@@ -1,0 +1,21 @@
+🧠 Atividade: Sistema de Contrato com Parcelamento e Serviço de Pagamento Online
+
+    1. Solicita os dados do contrato:
+        - ID do contrato
+        - Data do contrato (formato DD/MM/YYYY)
+        - Valor total do contrato
+        - Número de parcelas
+
+    2. Cria um objeto Contrato com os dados informados.
+
+    3. Utiliza um serviço de processamento de contrato (ServicoDeContrato) que recebe como dependência um serviço de pagamento online (ServicoPayPal).
+
+    4. O ServicoDeContrato processa o contrato:
+        - Calcula o valor básico de cada parcela (valor total ÷ número de meses).
+        - Aplica juros mensais ao valor básico da parcela.
+        - Aplica taxa de pagamento do serviço de pagamento online.
+        - Cria objetos Parcela com a data de vencimento e o valor final calculado, adicionando-os ao contrato.
+
+    5. Exibe a lista de parcelas com:
+        - Data de vencimento no formato DD/MM/YYYY
+        - Valor formatado como moeda
