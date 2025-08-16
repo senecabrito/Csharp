@@ -1,0 +1,8 @@
+Sêneca,15
+Wattila,18
+Lays,13
+Sêneca,21
+Wattila,38
+Lays,47
+Sêneca,25
+Wattila,3
